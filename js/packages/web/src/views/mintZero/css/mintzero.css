@@ -1,0 +1,3417 @@
+/* screen - mintzero */
+
+a:active {
+  border: none;
+  font-family: 'Lato';
+  font-size: inherit;
+  color: inherit;
+  background: none;
+  cursor: pointer;
+  padding: 25px 80px;
+  display: inline-block;
+  margin: 15px 30px;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  font-weight: 700;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+/* for button click animation */
+/* a:hover::before {
+  opacity: 0 ;
+  transform: scale(0.5,0.5);
+}
+a::after {
+  content: '';
+  position: relative;
+  top: 0;
+  left: 0;
+  width: inherit;
+  height: inherit;
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.3s;
+  border: 1px solid rgba(255,255,255,0.5);
+  transform: scale(1.2,1.2);
+}
+a:hover::after {
+  opacity: 1;
+  transform: scale(1,1);
+} */
+
+.mintzero {
+  background-color: var(--casal);
+  height: 6791px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.mintzero .bg-nx9POK {
+  background-color: transparent;
+  height: 7319px;
+  left: -879px;
+  position: absolute;
+  top: -68px;
+  width: 3678px;
+}
+
+.mintzero .bg-Z7dddx {
+  background-color: transparent;
+  height: 7319px;
+  left: -879px;
+  position: absolute;
+  top: -68px;
+  width: 3678px;
+}
+
+.mintzero .footer-nx9POK {
+  background-color: transparent;
+  height: 321px;
+  left: -14px;
+  position: absolute;
+  top: 6470px;
+  width: 1972px;
+}
+
+.mintzero .rectangle-492-sn9ws7 {
+  background-color: var(--cyprus-2);
+  height: 321px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1952px;
+}
+
+.mintzero .rectangle-493-sn9ws7 {
+  background-color: #02323c;
+  height: 61px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 260px;
+  width: 1952px;
+}
+
+.mintzero .email-sn9ws7 {
+  background-color: transparent;
+  height: 44px;
+  left: 1179px;
+  position: absolute;
+  top: 136px;
+  width: 248px;
+}
+
+.mintzero .x31101-nafi-dr-immokalee-florida-34142-l6fFdj {
+  background-color: transparent;
+  height: 42px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 206px;
+}
+
+.mintzero .vector-l6fFdj {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 27px;
+}
+
+.mintzero .my-wallet-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 947px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .shopping-cart-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 947px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .fa-qs-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 948px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .insta-sn9ws7 {
+  background-color: transparent;
+  height: 34px;
+  left: 1486px;
+  position: absolute;
+  top: 57px;
+  width: 34px;
+}
+
+.mintzero .ellipse-28-n8kUlN {
+  background-color: transparent;
+  border-radius: 17.07px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 34px;
+}
+
+.mintzero .vector-n8kUlN {
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.mintzero .vector-Ynjry0 {
+  background-color: transparent;
+  height: 7px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.mintzero .vector-2tufSY {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.mintzero .facebook-sn9ws7 {
+  background-color: transparent;
+  height: 34px;
+  left: 1531px;
+  position: absolute;
+  top: 57px;
+  width: 34px;
+}
+
+.mintzero .facebook-yydyl9 {
+  background-color: transparent;
+  height: 15px;
+  left: 12px;
+  position: absolute;
+  top: 9px;
+  width: 9px;
+}
+
+.mintzero .ellipse-30-yydyl9 {
+  background-color: transparent;
+  border-radius: 17.07px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 34px;
+}
+
+.mintzero .phone-sn9ws7 {
+  background-color: transparent;
+  height: 26px;
+  left: 1179px;
+  position: absolute;
+  top: 67px;
+  width: 158px;
+}
+
+.mintzero .x863225-1810-JxpQww {
+  background-color: transparent;
+  height: 21px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .vector-JxpQww {
+  background-color: transparent;
+  height: 26px;
+  left: -1px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.mintzero .logo-sn9ws7 {
+  background-color: transparent;
+  height: 64px;
+  left: 367px;
+  position: absolute;
+  top: 46px;
+  width: 255px;
+}
+
+.mintzero .about-us-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .about-sn9ws7 {
+  background-color: transparent;
+  color: var(--screamin-green);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 687px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .customer-care-sn9ws7 {
+  background-color: transparent;
+  color: var(--screamin-green);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 948px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .contact-us-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .privacy-policy-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 170px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .terms-conditions-sn9ws7 {
+  background-color: transparent;
+  height: 22px;
+  left: 677px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 202px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .all-rights-reserved-mint-zero-sn9ws7 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 278px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .fa-qs-nx9POK {
+  background-color: transparent;
+  height: 1736px;
+  left: 344px;
+  position: absolute;
+  top: 4660px;
+  width: 1238px;
+}
+
+.mintzero .fa-qs-YZnAbW {
+  background-color: transparent;
+  height: 40px;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 666px;
+}
+
+.mintzero .x1-YZnAbW {
+  background-color: transparent;
+  height: 287px;
+  left: 0px;
+  position: absolute;
+  top: 77px;
+  width: 1236px;
+}
+
+.mintzero .x1-aCJl6W {
+  background-color: transparent;
+  height: 287px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.mintzero .rectangle-478-9JusLx {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 287px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .carbon-credits-are-m-9JusLx {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: 1147px;
+}
+
+.mintzero .what-are-carbon-credits-9JusLx {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-aCJl6W {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.mintzero .x2-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 380px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-479-BxXHxc {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .are-these-carbon-creditsoffsets-verified-BxXHxc {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-BxXHxc {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 38px;
+  width: 22px;
+}
+
+.mintzero .x3-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 576px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-481-fRMeq3 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .what-is-my-carbon-footprint-fRMeq3 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-fRMeq3 {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 43px;
+  width: 22px;
+}
+
+.mintzero .x4-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 478px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-480-fKEbbR {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .how-do-i-know-where-fKEbbR {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-fKEbbR {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 37px;
+  width: 22px;
+}
+
+.mintzero .x5-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 674px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-482-PPxjA5 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .whats-an-nft-PPxjA5 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-PPxjA5 {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 42px;
+  width: 22px;
+}
+
+.mintzero .x6-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 772px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-492-yAOfip {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .is-there-a-presale-yAOfip {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-yAOfip {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 35px;
+  width: 22px;
+}
+
+.mintzero .x7-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 870px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-483-AZkH3U {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .who-is-behind-this-project-AZkH3U {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-AZkH3U {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 38px;
+  width: 22px;
+}
+
+.mintzero .x8-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 968px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-484-s7bCUE {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .what-is-the-impact-o-s7bCUE {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-s7bCUE {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 37px;
+  width: 22px;
+}
+
+.mintzero .x9-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1066px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-485-x7qz5r {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .what-is-the-impact-o-x7qz5r {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-x7qz5r {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.mintzero .x10-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1164px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-486-pMrnTI {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .x30-years-isnt-that-a-long-time-pMrnTI {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-pMrnTI {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 39px;
+  width: 22px;
+}
+
+.mintzero .x11-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1262px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-487-1oACMz {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .what-if-i-dont-want-1oACMz {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-1oACMz {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 35px;
+  width: 22px;
+}
+
+.mintzero .x12-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1360px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-488-wRZZ7A {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .which-blockchain-pro-wRZZ7A {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-wRZZ7A {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 38px;
+  width: 22px;
+}
+
+.mintzero .x13-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1458px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-489-tIkcgg {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .arent-blockchainsnf-tIkcgg {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-tIkcgg {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 41px;
+  width: 22px;
+}
+
+.mintzero .x14-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1556px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-490-sxZYvU {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .do-you-have-a-roadmap-sxZYvU {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-sxZYvU {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 36px;
+  width: 22px;
+}
+
+.mintzero .x15-YZnAbW {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 1654px;
+  width: 1238px;
+}
+
+.mintzero .rectangle-491-iWDxV2 {
+  background-color: var(--white-2);
+  border-radius: 5px;
+  height: 82px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.mintzero .what-if-i-know-a-goo-iWDxV2 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 695px;
+}
+
+.mintzero .vector-iWDxV2 {
+  background-color: transparent;
+  height: 12px;
+  left: 1174px;
+  position: absolute;
+  top: 31px;
+  width: 22px;
+}
+
+.mintzero .logos-nx9POK {
+  background-color: transparent;
+  height: 697px;
+  left: -6px;
+  position: absolute;
+  top: 3633px;
+  width: 1949px;
+}
+
+.mintzero .rectangle-495-T2D0C4 {
+  background-color: var(--white);
+  height: 697px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1947px;
+}
+
+.mintzero .companies-using-mint-T2D0C4 {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 100px;
+  left: 570px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 792px;
+}
+
+.mintzero .span0-xQZShE {
+  font-style: normal;
+}
+
+.mintzero .span1-xQZShE {
+  color: var(--screamin-green);
+  font-style: normal;
+}
+
+.mintzero .span2-xQZShE {
+  font-style: normal;
+}
+
+.mintzero .group-5225-T2D0C4 {
+  background-color: transparent;
+  height: 116px;
+  left: 77px;
+  position: absolute;
+  top: 254px;
+  width: 1827px;
+}
+
+.mintzero .logo-rbc-nuUPgE {
+  background-color: transparent;
+  height: 114px;
+  left: 590px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 87px;
+}
+
+.mintzero .logo-cibc-nuUPgE {
+  background-color: transparent;
+  height: 101px;
+  left: 766px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 112px;
+}
+
+.mintzero .logo-ibm-nuUPgE {
+  background-color: transparent;
+  height: 72px;
+  left: 967px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 176px;
+}
+
+.mintzero .logo-ibm-VLhyUv {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 176px;
+}
+
+.mintzero .logo-rogers-nuUPgE {
+  background-color: transparent;
+  height: 67px;
+  left: 1232px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 302px;
+}
+
+.mintzero .logo-toronto-nuUPgE {
+  background-color: transparent;
+  height: 72px;
+  left: 265px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 236px;
+}
+
+.mintzero .logo-toronto-VLhyUv {
+  background-color: transparent;
+  height: 72px;
+  left: 1591px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 236px;
+}
+
+.mintzero .bg-rpSGmK {
+  background-color: transparent;
+  height: 706px;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 828px;
+  width: 1920px;
+}
+
+.mintzero .form-nx9POK {
+  background-color: transparent;
+  height: 472px;
+  left: 340px;
+  position: absolute;
+  top: 4106px;
+  width: 1240px;
+}
+
+.mintzero .rectangle-496-uxQY1k {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 472px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.mintzero .rectangle-497-uxQY1k {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 423px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 1191px;
+}
+
+.mintzero .text-uxQY1k {
+  background-color: transparent;
+  height: 277px;
+  left: 153px;
+  position: absolute;
+  top: 91px;
+  width: 932px;
+}
+
+.mintzero .rectangle-500-bhMcop {
+  background-color: var(--aqua-squeeze);
+  border-radius: 5px;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 227px;
+}
+
+.mintzero .rectangle-501-bhMcop {
+  background-color: var(--aqua-squeeze);
+  border-radius: 5px;
+  height: 62px;
+  left: 240px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 227px;
+}
+
+.mintzero .rectangle-502-bhMcop {
+  background-color: var(--aqua-squeeze);
+  border-radius: 5px;
+  height: 62px;
+  left: 478px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 227px;
+}
+
+.mintzero .want-to-be-the-first-bhMcop {
+  background-color: transparent;
+  height: 100px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 827px;
+}
+
+.mintzero .give-us-your-details-bhMcop {
+  background-color: transparent;
+  color: var(--cyprus);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: 40px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  white-space: nowrap;
+  width: 657px;
+}
+
+.mintzero .your-name-bhMcop {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 234px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .company-name-bhMcop {
+  background-color: transparent;
+  height: 24px;
+  left: 270px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 234px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .email-bhMcop {
+  background-color: transparent;
+  height: 24px;
+  left: 508px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 234px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .btn-bhMcop {
+  background-color: transparent;
+  height: 62px;
+  left: 728px;
+  position: absolute;
+  top: 215px;
+  width: 196px;
+}
+
+.mintzero .rectangle-411-K6zTBN {
+  background-color: var(--screamin-green);
+  border-radius: 5px;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.mintzero .submit-K6zTBN {
+  background-color: transparent;
+  color: var(--casal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .about-nx9POK {
+  background-color: transparent;
+  height: 826px;
+  left: 340px;
+  position: absolute;
+  top: 943px;
+  width: 1223px;
+}
+
+.mintzero .mint-zero-is-the-eas-rxLmre {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 100px;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1043px;
+}
+
+.mintzero .span0-xYG1GN {
+  color: var(--screamin-green);
+  font-style: normal;
+}
+
+.mintzero .span1-xYG1GN {
+  font-style: normal;
+}
+
+.mintzero .x1-rxLmre {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 152px;
+  width: 847px;
+}
+
+.mintzero .simply-purchase-your-HxmmQQ {
+  background-color: transparent;
+  height: 72px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 667px;
+}
+
+.mintzero .quick-easy-offset-yo-HxmmQQ {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 661px;
+}
+
+.mintzero .span0-YQDnKB {
+  color: var(--screamin-green);
+  font-style: normal;
+}
+
+.mintzero .span1-YQDnKB {
+  color: var(--white);
+  font-style: normal;
+}
+
+.mintzero .ellipse-32-HxmmQQ {
+  background-color: transparent;
+  border-radius: 70px;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+
+.mintzero .ellipse-31-HxmmQQ {
+  background-color: var(--white-2);
+  border-radius: 54px;
+  height: 108px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 108px;
+}
+
+.mintzero .vector-HxmmQQ {
+  background-color: transparent;
+  height: 52px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 55px;
+}
+
+.mintzero .x3-rxLmre {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 508px;
+  width: 876px;
+}
+
+.mintzero .our-experts-have-yea-v0vZFK {
+  background-color: transparent;
+  height: 72px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 696px;
+}
+
+.mintzero .high-impact-diverse-v0vZFK {
+  background-color: transparent;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 661px;
+}
+
+.mintzero .span0-cxxslr {
+}
+
+.mintzero .span1-cxxslr {
+}
+
+.mintzero .ellipse-32-v0vZFK {
+  background-color: transparent;
+  border-radius: 70px;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+
+.mintzero .ellipse-31-v0vZFK {
+  background-color: var(--white-2);
+  border-radius: 54px;
+  height: 108px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 108px;
+}
+
+.mintzero .vector-v0vZFK {
+  background-color: transparent;
+  height: 55px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 55px;
+}
+
+.mintzero .x2-rxLmre {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 330px;
+  width: 843px;
+}
+
+.mintzero .carbon-credit-prices-2pybuu {
+  background-color: transparent;
+  height: 72px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 655px;
+}
+
+.mintzero .low-cost-protection-2pybuu {
+  background-color: transparent;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 661px;
+}
+
+.mintzero .span0-CLDyF2 {
+}
+
+.mintzero .span1-CLDyF2 {
+}
+
+.mintzero .ellipse-32-2pybuu {
+  background-color: transparent;
+  border-radius: 70px;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+
+.mintzero .ellipse-31-2pybuu {
+  background-color: var(--white-2);
+  border-radius: 54px;
+  height: 108px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 108px;
+}
+
+.mintzero .vector-2pybuu {
+  background-color: transparent;
+  height: 50px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47px;
+  width: 51px;
+}
+
+.mintzero .x4-rxLmre {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 686px;
+  width: 869px;
+}
+
+.mintzero .nft-members-gain-acc-AWL6AQ {
+  background-color: transparent;
+  height: 72px;
+  left: 176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 689px;
+}
+
+.mintzero .shareable-use-our-so-AWL6AQ {
+  background-color: transparent;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: 661px;
+}
+
+.mintzero .span0-Whxi0Q {
+}
+
+.mintzero .span1-Whxi0Q {
+}
+
+.mintzero .ellipse-32-AWL6AQ {
+  background-color: transparent;
+  border-radius: 70px;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+
+.mintzero .ellipse-31-AWL6AQ {
+  background-color: var(--white-2);
+  border-radius: 54px;
+  height: 108px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 108px;
+}
+
+.mintzero .vector-AWL6AQ {
+  background-color: transparent;
+  height: 55px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 55px;
+}
+
+.mintzero .phone-rxLmre {
+  background-color: transparent;
+  height: 647px;
+  left: 915px;
+  position: absolute;
+  top: 162px;
+  width: 306px;
+}
+
+.mintzero .nft-nx9POK {
+  background-color: transparent;
+  height: 841px;
+  left: 339px;
+  position: absolute;
+  top: 1902px;
+  width: 1243px;
+}
+
+.mintzero .enjoy-decades-of-car-sEuoDT {
+  background-color: transparent;
+  height: 100px;
+  left: 293px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 666px;
+}
+
+.mintzero .mint-zero-makes-it-e-sEuoDT {
+  background-color: transparent;
+  height: 90px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+  width: 1237px;
+}
+
+.mintzero .terms-and-conditions-sEuoDT {
+  background-color: transparent;
+  height: 30px;
+  left: 1066px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 811px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x1-sEuoDT {
+  background-color: transparent;
+  height: 523px;
+  left: 5px;
+  position: absolute;
+  top: 260px;
+  width: 298px;
+}
+
+.mintzero .rectangle-474-wYR2cA {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 523px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 288px;
+}
+
+.mintzero .rectangle-469-wYR2cA {
+  background-color: transparent;
+  height: 213px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 266px;
+}
+
+.mintzero .mint-zero-nft-tier1-tdb-membership-wYR2cA {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 273px;
+  width: 258px;
+}
+
+.mintzero .for-individuals-wYR2cA {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .membership-price-15-wYR2cA {
+  background-color: transparent;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 426px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x92-92-wYR2cA {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 483px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-20-wYR2cA {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 468px;
+  width: 265px;
+}
+
+.mintzero .access-to-10-carbon-wYR2cA {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  width: 258px;
+}
+
+.mintzero .x2-sEuoDT {
+  background-color: transparent;
+  height: 523px;
+  left: 314px;
+  position: absolute;
+  top: 260px;
+  width: 300px;
+}
+
+.mintzero .rectangle-474-94ubBR {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 523px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 288px;
+}
+
+.mintzero .rectangle-469-94ubBR {
+  background-color: transparent;
+  height: 213px;
+  left: 11px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 266px;
+}
+
+.mintzero .mint-zero-nft-tier2-tbd-membership-94ubBR {
+  background-color: transparent;
+  height: 44px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  width: 248px;
+}
+
+.mintzero .time-left-1725-94ubBR {
+  background-color: transparent;
+  color: var(--cyprus);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .vector-94ubBR {
+  background-color: transparent;
+  height: 16px;
+  left: 142px;
+  position: absolute;
+  top: 485px;
+  width: 16px;
+}
+
+.mintzero .tbdtdb-94ubBR {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 481px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-20-94ubBR {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 466px;
+  width: 265px;
+}
+
+.mintzero .access-to-30-carbon-94ubBR {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  width: 266px;
+}
+
+.mintzero .membership-price-50-94ubBR {
+  background-color: transparent;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 426px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .for-small-businesses-94ubBR {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x3-sEuoDT {
+  background-color: transparent;
+  height: 523px;
+  left: 631px;
+  position: absolute;
+  top: 260px;
+  width: 300px;
+}
+
+.mintzero .rectangle-474-uRxzx7 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 523px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 288px;
+}
+
+.mintzero .rectangle-469-uRxzx7 {
+  background-color: transparent;
+  height: 213px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 266px;
+}
+
+.mintzero .mint-zero-nft-tier3-tbd-membership-uRxzx7 {
+  background-color: transparent;
+  height: 44px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  width: 248px;
+}
+
+.mintzero .time-left-1725-uRxzx7 {
+  background-color: transparent;
+  color: var(--cyprus);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: 22px;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .vector-uRxzx7 {
+  background-color: transparent;
+  height: 16px;
+  left: 139px;
+  position: absolute;
+  top: 486px;
+  width: 16px;
+}
+
+.mintzero .tbdtdb-uRxzx7 {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 481px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-20-uRxzx7 {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 466px;
+  width: 265px;
+}
+
+.mintzero .access-to-200-carbon-uRxzx7 {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  width: 266px;
+}
+
+.mintzero .membership-price-50-uRxzx7 {
+  background-color: transparent;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 426px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .for-larger-organisations-v-cs-uRxzx7 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x4-sEuoDT {
+  background-color: transparent;
+  height: 523px;
+  left: 948px;
+  position: absolute;
+  top: 260px;
+  width: 298px;
+}
+
+.mintzero .rectangle-474-P5LyzL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 523px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 288px;
+}
+
+.mintzero .rectangle-469-P5LyzL {
+  background-color: transparent;
+  height: 213px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 266px;
+}
+
+.mintzero .mint-zero-nft-tier4-tbd-membership-P5LyzL {
+  background-color: transparent;
+  height: 44px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  width: 248px;
+}
+
+.mintzero .tbdtdb-P5LyzL {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 481px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-20-P5LyzL {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 466px;
+  width: 265px;
+}
+
+.mintzero .access-to-200-carbon-P5LyzL {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  width: 266px;
+}
+
+.mintzero .membership-price-50-P5LyzL {
+  background-color: transparent;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 426px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .for-larger-organisations-v-cs-P5LyzL {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .table-nx9POK {
+  background-color: transparent;
+  height: 721px;
+  left: 343px;
+  position: absolute;
+  top: 2811px;
+  width: 1250px;
+}
+
+.mintzero .which-mint-zero-token-is-right-for-me-lDKXVy {
+  background-color: transparent;
+  height: 80px;
+  left: 299px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 701px;
+}
+
+.mintzero .annual-carbon-offset-x-30-yrs-lDKXVy {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 210px;
+  width: 204px;
+}
+
+.mintzero .for-businesses-with-ie-lDKXVy {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: auto;
+}
+
+.mintzero .nft-price-lDKXVy {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 379px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .no-of-nf-ts-available-lDKXVy {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 436px;
+  width: auto;
+}
+
+.mintzero .no-of-nf-ts-available-U06CwF {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 436px;
+  width: auto;
+}
+
+.mintzero .coming-soon-lDKXVy {
+  background-color: transparent;
+  height: auto;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 685px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x1-lDKXVy {
+  background-color: transparent;
+  height: 522px;
+  left: 209px;
+  position: absolute;
+  top: 142px;
+  width: 935px;
+}
+
+.mintzero .mint-zero-platinum-XiUvnG {
+  background-color: transparent;
+  height: 30px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .group-289134-XiUvnG {
+  background-color: transparent;
+  height: 478px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 941px;
+}
+
+.mintzero .rectangle-468-KzTNpa {
+  background-color: var(--white-2);
+  border-radius: 10px;
+  height: 478px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.mintzero .vector-KzTNpa {
+  background-color: transparent;
+  height: 31px;
+  left: 103px;
+  position: absolute;
+  top: 333px;
+  width: 31px;
+}
+
+.mintzero .vector-RLvK7d {
+  background-color: transparent;
+  height: 31px;
+  left: 102px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .vector-otrj7m {
+  background-color: transparent;
+  height: 31px;
+  left: 102px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .vector-IMXWns {
+  background-color: transparent;
+  height: 31px;
+  left: 102px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .vector-947Em0 {
+  background-color: transparent;
+  height: 31px;
+  left: 637px;
+  position: absolute;
+  top: 333px;
+  width: 31px;
+}
+
+.mintzero .vector-1UBQ9t {
+  background-color: transparent;
+  height: 31px;
+  left: 902px;
+  position: absolute;
+  top: 333px;
+  width: 31px;
+}
+
+.mintzero .x300-tonsyr-KzTNpa {
+  background-color: transparent;
+  height: 30px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x100-employees-KzTNpa {
+  background-color: transparent;
+  height: 48px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 150px;
+}
+
+.mintzero .x90000-KzTNpa {
+  background-color: transparent;
+  height: 30px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x1-KzTNpa {
+  background-color: transparent;
+  height: 30px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-10-KzTNpa {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 100px;
+  width: 179px;
+}
+
+.mintzero .line-14-KzTNpa {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 244px;
+  width: 179px;
+}
+
+.mintzero .line-16-KzTNpa {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 388px;
+  width: 179px;
+}
+
+.mintzero .line-13-KzTNpa {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 172px;
+  width: 179px;
+}
+
+.mintzero .line-15-KzTNpa {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 316px;
+  width: 179px;
+}
+
+.mintzero .vector-Q2MXxu {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  position: absolute;
+  top: 333px;
+  width: 31px;
+}
+
+.mintzero .x2-lDKXVy {
+  background-color: transparent;
+  height: 522px;
+  left: 475px;
+  position: absolute;
+  top: 142px;
+  width: 231px;
+}
+
+.mintzero .mint-zero-gold-WyVOJv {
+  background-color: transparent;
+  height: 30px;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .group-289135-WyVOJv {
+  background-color: transparent;
+  height: 478px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 237px;
+}
+
+.mintzero .rectangle-468-aSE9RD {
+  background-color: var(--white-2);
+  border-radius: 10px;
+  height: 478px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.mintzero .x100-tonsyr-aSE9RD {
+  background-color: transparent;
+  height: 30px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x50-employees-aSE9RD {
+  background-color: transparent;
+  height: 48px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 131px;
+}
+
+.mintzero .x32000-aSE9RD {
+  background-color: transparent;
+  height: 30px;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x2-aSE9RD {
+  background-color: transparent;
+  height: 30px;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-10-aSE9RD {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 100px;
+  width: 179px;
+}
+
+.mintzero .line-14-aSE9RD {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 244px;
+  width: 179px;
+}
+
+.mintzero .line-16-aSE9RD {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 388px;
+  width: 179px;
+}
+
+.mintzero .line-13-aSE9RD {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 172px;
+  width: 179px;
+}
+
+.mintzero .line-15-aSE9RD {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 316px;
+  width: 179px;
+}
+
+.mintzero .vector-aSE9RD {
+  background-color: transparent;
+  height: 31px;
+  left: 104px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .x3-lDKXVy {
+  background-color: transparent;
+  height: 522px;
+  left: 741px;
+  position: absolute;
+  top: 142px;
+  width: 231px;
+}
+
+.mintzero .mint-zero-silver-gD3sJD {
+  background-color: transparent;
+  height: 30px;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .group-289136-gD3sJD {
+  background-color: transparent;
+  height: 478px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 237px;
+}
+
+.mintzero .rectangle-468-cKcQZU {
+  background-color: var(--white-2);
+  border-radius: 10px;
+  height: 478px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.mintzero .x30-tonsyr-cKcQZU {
+  background-color: transparent;
+  height: 30px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x10-employees-cKcQZU {
+  background-color: transparent;
+  height: 48px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: 204px;
+}
+
+.mintzero .x8000-cKcQZU {
+  background-color: transparent;
+  height: 30px;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x7-cKcQZU {
+  background-color: transparent;
+  height: 30px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-10-cKcQZU {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 100px;
+  width: 179px;
+}
+
+.mintzero .line-14-cKcQZU {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 244px;
+  width: 179px;
+}
+
+.mintzero .line-16-cKcQZU {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 388px;
+  width: 179px;
+}
+
+.mintzero .line-13-cKcQZU {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 172px;
+  width: 179px;
+}
+
+.mintzero .line-15-cKcQZU {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 316px;
+  width: 179px;
+}
+
+.mintzero .vector-cKcQZU {
+  background-color: transparent;
+  height: 31px;
+  left: 104px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .x4-lDKXVy {
+  background-color: transparent;
+  height: 522px;
+  left: 1007px;
+  position: absolute;
+  top: 142px;
+  width: 231px;
+}
+
+.mintzero .mint-zero-bronze-MwD26j {
+  background-color: transparent;
+  height: 30px;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .group-289136-MwD26j {
+  background-color: transparent;
+  height: 478px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 237px;
+}
+
+.mintzero .rectangle-468-hr2D3G {
+  background-color: var(--white-2);
+  border-radius: 10px;
+  height: 478px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.mintzero .x10-tonsyr-hr2D3G {
+  background-color: transparent;
+  height: 30px;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .start-ups-hr2D3G {
+  background-color: transparent;
+  height: 28px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.mintzero .x3500-hr2D3G {
+  background-color: transparent;
+  height: 30px;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 193px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .x90-hr2D3G {
+  background-color: transparent;
+  height: 30px;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .line-10-hr2D3G {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 100px;
+  width: 179px;
+}
+
+.mintzero .line-14-hr2D3G {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 244px;
+  width: 179px;
+}
+
+.mintzero .line-16-hr2D3G {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 388px;
+  width: 179px;
+}
+
+.mintzero .line-13-hr2D3G {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 172px;
+  width: 179px;
+}
+
+.mintzero .line-15-hr2D3G {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 316px;
+  width: 179px;
+}
+
+.mintzero .vector-hr2D3G {
+  background-color: transparent;
+  height: 31px;
+  left: 104px;
+  position: absolute;
+  top: 415px;
+  width: 31px;
+}
+
+.mintzero .intro-nx9POK {
+  background-color: transparent;
+  height: 1292px;
+  left: -306px;
+  position: absolute;
+  top: -464px;
+  width: 2798px;
+}
+
+.mintzero .dec-1-YqkfU9 {
+  background-color: transparent;
+  height: 454px;
+  left: -1px;
+  position: absolute;
+  top: 838px;
+  width: 909px;
+}
+
+.mintzero .dec-2-YqkfU9 {
+  background-color: transparent;
+  height: 1152px;
+  left: 1640px;
+  position: absolute;
+  top: 0px;
+  width: 1158px;
+}
+
+.mintzero .ellipse-3-m9hZIV {
+  background-color: transparent;
+  height: 1144px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 572px;
+}
+
+.mintzero .vector-m9hZIV {
+  background-color: transparent;
+  height: 29px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 584px;
+  width: 28px;
+}
+
+.mintzero .vector-Bt3Par {
+  background-color: transparent;
+  height: 25px;
+  left: 498px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1127px;
+  width: 24px;
+}
+
+.mintzero .vector-vyGasj {
+  background-color: transparent;
+  height: 58px;
+  left: 234px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1014px;
+  width: 55px;
+}
+
+.mintzero .vector-IGV8be {
+  background-color: transparent;
+  height: 338px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 452px;
+  width: 320px;
+}
+
+.mintzero .text-YqkfU9 {
+  background-color: transparent;
+  height: 520px;
+  left: 385px;
+  position: absolute;
+  top: 727px;
+  width: 1416px;
+}
+
+.mintzero .mint-a-carbon-neutra-7dMxAg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 800;
+  height: 150px;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 1089px;
+}
+
+.mintzero .mint-zero-makes-smal-7dMxAg {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-lato);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  height: 140px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 342px;
+}
+
+.mintzero .span0-GIeO8c {
+  color: var(--screamin-green);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mintzero .span1-GIeO8c {
+  font-style: normal;
+}
+
+.mintzero .the-fastest-low-cost-7dMxAg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: 80px;
+  left: 574px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 167px;
+  width: 583px;
+}
+
+.mintzero .btn-7dMxAg {
+  background-color: transparent;
+  height: 65px;
+  left: 712px;
+  position: absolute;
+  top: 284px;
+  width: 309px;
+}
+
+.mintzero .rectangle-411-Xx2Hll {
+  background-color: var(--screamin-green);
+  border-radius: 5px;
+  height: 65px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.mintzero .go-carbon-neutral-now-Xx2Hll {
+  background-color: transparent;
+  color: var(--casal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .mouse-7dMxAg {
+  background-color: transparent;
+  height: 80px;
+  left: 852px;
+  position: absolute;
+  top: 440px;
+  width: 27px;
+}
+
+.mintzero .header-nx9POK {
+  background-color: transparent;
+  height: 64px;
+  left: 117px;
+  position: absolute;
+  top: 66px;
+  width: 1688px;
+}
+
+.mintzero .logo-Xow06a {
+  background-color: transparent;
+  height: 64px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 255px;
+}
+
+.mintzero .menu-Xow06a {
+  background-color: transparent;
+  height: 22px;
+  left: 575px;
+  position: absolute;
+  top: 23px;
+  width: 513px;
+}
+
+.mintzero .buy-nft-join-xI43ai {
+  background-color: transparent;
+  height: 22px;
+  left: 204px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .about-the-project-xI43ai {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .fa-qs-xI43ai {
+  background-color: transparent;
+  height: 22px;
+  left: 337px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .discord-xI43ai {
+  background-color: transparent;
+  height: 22px;
+  left: 444px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .cart-Xow06a {
+  background-color: transparent;
+  height: 26px;
+  left: 1524px;
+  position: absolute;
+  top: 19px;
+  width: 164px;
+}
+
+.mintzero .email-NFP1gG {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 166px;
+}
+
+.mintzero .connect-wallet-KF9mw5 {
+  background-color: transparent;
+  color: var(--screamin-green);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .vector-KF9mw5 {
+  background-color: transparent;
+  height: 27px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 24px;
+}
+
+.mintzero .media-assets-nx9POK {
+  background-color: transparent;
+  height: 30px;
+  left: 342px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3337px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mintzero .logo-display-nx9POK {
+  background-color: transparent;
+  height: 30px;
+  left: 343px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3404px;
+  white-space: nowrap;
+  width: auto;
+}

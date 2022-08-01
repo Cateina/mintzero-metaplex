@@ -12,6 +12,7 @@ import {
   AuctionView,
   HomeView,
   StaticPageView,
+  MintZeroView,
 } from './views';
 import { AdminView } from './views/admin';
 import PackView from './views/pack';
@@ -82,7 +83,8 @@ export function Routes() {
               path="/collection/:id"
               component={() => <CollectionDetailView />}
             />
-            <Route path="/" component={() => <HomeView />} />
+            <Route path="/home" component={() => <HomeView />} />
+            <Route path="/mintzero" component={() => <MintZeroView />} />
           </Switch>
         </Providers>
       </HashRouter>
